@@ -13,5 +13,5 @@
 - Java
 
 ### Goals
-[ ] Have a living dex in Pokemon Home
-[ ] Obtain a shiny pokemon and turn it into a ribbon master (from Gen 3)
+- [ ] Have a living dex in Pokemon Home
+- [ ] Obtain a shiny pokemon and turn it into a ribbon master (from Gen 3)
