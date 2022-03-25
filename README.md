@@ -11,6 +11,7 @@
 - HTML
 - Visual Basic
 - Java
+- Arduino
 
 ### Goals
 - [ ] Have a living dex in Pokemon Home
