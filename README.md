@@ -4,6 +4,7 @@
 ### Things I'm interested in
 - Coding
 - Gaming
+- Animation
 - Anime and Vtubers
 
 ### I've experienced coding in
