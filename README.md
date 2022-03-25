@@ -12,6 +12,7 @@
 - Visual Basic
 - Java
 - Arduino
+- VEXcode
 
 ### Goals
 - [ ] Have a living dex in Pokemon Home
