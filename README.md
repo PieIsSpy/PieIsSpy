@@ -5,3 +5,8 @@
 - Coding
 - Gaming
 - Anime and Vtubers
+
+### I've experienced coding in
+- HTML
+- Visual Basic
+- Java
