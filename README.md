@@ -15,8 +15,6 @@
 - VEXcode
 
 ### Goals
-- [ ] Have a living dex in Pokemon Home
-- [ ] Obtain a Shiny Female Eevee and turn it into a ribbon master (from Gen 3)
 - [ ] Be proficient in coding without needing a guide most of the time
 - [ ] Draw something actually good at least once
 - [ ] Animate something actually good at least once
