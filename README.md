@@ -13,5 +13,11 @@
 </details>
 
 # Languages
-- C
-- Java
+- Most familiar(-ish)
+  - C
+  - Java
+- Somewhat familiar
+  - Visual Basic
+  - Python
+  - C++ (through tinkercad)
+  - Cpp
