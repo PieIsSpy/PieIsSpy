@@ -11,3 +11,7 @@
   
   - Portfolio Website: https://pieisspy.github.io/
 </details>
+
+# Languages
+- C
+- Java
