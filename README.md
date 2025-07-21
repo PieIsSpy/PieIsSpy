@@ -21,3 +21,6 @@
   - Python
   - C++ (through tinkercad)
   - C#
+  - Javascript
+  - HTML
+  - CSS
