@@ -1,6 +1,3 @@
-### ❄︎☟︎✋︎💧︎ ☠︎☜︎✠︎❄︎ ☜︎✠︎🏱︎☜︎☼︎✋︎💣︎☜︎☠︎❄︎ 💧︎☜︎☜︎💣︎💧︎📬︎📬︎📬︎ ✞︎☜︎☼︎✡︎📬︎📬︎📬︎ ✞︎☜︎☼︎✡︎📬︎📬︎📬︎ ✋︎☠︎❄︎☜︎☼︎☜︎💧︎❄︎✋︎☠︎☝︎📬︎📬︎📬︎ 
-### 🕈︎☟︎✌︎❄︎ 👎︎⚐︎ ✡︎⚐︎🕆︎ ❄︎☟︎✋︎☠︎😐︎✍︎
-
 <details>
   <summary>Psst. spoiler alert</summary>
   Both of them are still work-in progress (and by that I mean they don't have anything yet LMAO):
