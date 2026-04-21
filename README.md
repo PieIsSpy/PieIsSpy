@@ -2,7 +2,4 @@
 Personal Website: https://pieisspy.neocities.org/
 
 # Languages
-- Most familiar(-ish)
-  - C
-  - Java
-  - Python
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PieIsSpy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
